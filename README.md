@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ONED4Y
 - 👀 I’m interested in coding, I have decent experience with JavaScript, Java, HTML&CSS, and Kotlin.
-- 🌱 I’m currently learning C# and game development with Godot.
+- 🌱 I’m currently learning C# and game development with Unity.
 - 💞️ I’m looking to collaborate on many things, I'd also contribute to open source regularly.
 - 📫 How to reach me ...
 
